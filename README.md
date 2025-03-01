@@ -17,8 +17,7 @@ The primary dataset was obtained after conducting a survey on linkedin and X and
 - Power BI
   - Power Query
   - Data Visualization
-
-  #### Data Cleaning
+ #### Data Cleaning
   In the initial data preparation phase we performed the following task:
 
  -  Data loading and transformation
@@ -28,6 +27,7 @@ The primary dataset was obtained after conducting a survey on linkedin and X and
      - Changed data types
      - Split columns
      - Custom made a column
+   - Calculated average salary
   
   #### Data Analysis
   This involved exploring the data to answer key questions such as:
@@ -43,17 +43,17 @@ The primary dataset was obtained after conducting a survey on linkedin and X and
 - Data Scientists have the highest average salary (88k), followed by Data Architects (64k) and Data Engineers (61k).
 - Entry-level roles, such as students or those looking for jobs, have significantly lower salaries (27k).
 
-  ##### 2.Job Satisfaction:
+ ##### 2.Job Satisfaction:
 - Work-life balance satisfaction (5.74/10) is notably higher than salary satisfaction (4.27/10), indicating that while professionals may appreciate work flexibility, they feel underpaid.
 
-  ##### 3. Geographical Distribution:
+##### 3. Geographical Distribution:
 - The majority of professionals come from the United States, United Kingdom, India, and Canada, emphasizing these regions as data industry hubs.
 
- ##### 4. Career Entry Barriers:
+##### 4. Career Entry Barriers:
 - 42.7% of respondents found it neither easy nor difficult to enter the field, while 24.76% found it difficult.
 - A significant portion (21.2%) reported the transition into data roles as easy, suggesting a mixed experience.
 
- ##### 5. Preferred Programming Languages
+##### 5. Preferred Programming Languages
 - Python dominates the field, with significantly more votes than R, JavaScript, or C/C++.
 - JavaScript and Java receive little attention, reinforcing their limited relevance in data science roles.
 
