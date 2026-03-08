@@ -30,7 +30,7 @@ Survey data is rarely clean. I performed the following in **Power Query**:
 ---
 
 ## 📈 Dashboard Preview
-![Survey Dashboard]([INSERT YOUR LINK HERE])
+![Survey Dashboard](https://github.com/Naomi-254/Data-Professional-Survey-Breakdown/blob/0f14561585614405f9b5983522ec4325dc64f806/data%20professional.png)
 
 ## 🚀 Key Recommendations
 *   **For Recruiters:** Focus on "Work-Life Balance" in job descriptions to attract talent, as it is valued more than current salary levels.
